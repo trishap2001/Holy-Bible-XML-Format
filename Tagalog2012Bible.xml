@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Tagalog 2012 (Magandang Balita Biblia)" status="New Testament © 2012 Philippine Bible Society Old Testament © 2005 Philippine Bible Society" link="https://www.bible.com/bible/2197/MRK.16.MBBTAG12">
 	<testament name="Old">
-		<book number="1">
+		<book number="Genesis">
 			<chapter number="1">
 				<verse number="1">Nang pasimula ay nilikha ng Diyos ang langit at ang lupa;</verse>
 				<verse number="2">ang lupa ay walang hugis o anyo. Dilim ang bumabalot sa kalaliman at kumikilos ang Espiritu ng Diyos sa ibabaw ng tubig.</verse>
@@ -1636,7 +1636,7 @@
 				<verse number="26">Namatay nga si Jose sa gulang na 110 taon. Siya'y inembalsamo sa Egipto at inilagay sa isang kabaong.</verse>
 			</chapter>
 		</book>
-		<book number="2">
+		<book number="Exodo">
 			<chapter number="1">
 				<verse number="1">Ito ang mga anak ni Jacob na kasama niyang pumunta sa Egipto, kasama ang kani-kanilang sambahayan:</verse>
 				<verse number="2">sina Ruben, Simeon, Levi, Juda,</verse>
@@ -2931,7 +2931,7 @@
 				<verse number="38">Kung araw, ang ulap ng kapangyarihan ni Yahweh ay nasa tapat ng tabernakulo; kung gabi nama'y ang haliging apoy. Ito'y nasa isang lugar na kitang-kita ng mga Israelita at siya nilang tanglaw sa kanilang paglalakbay.</verse>
 			</chapter>
 		</book>
-		<book number="3">
+		<book number="Levitico">
 			<chapter number="1">
 				<verse number="1">Tinawag ni Yahweh si Moises, at mula sa Toldang Tipanan ay sinabi sa kanya,</verse>
 				<verse number="2">“Sabihin mo ito sa mga Israelita: ‘Kung may maghahandog kay Yahweh, ang dapat niyang ihandog ay baka, tupa o kambing.’</verse>
@@ -3846,7 +3846,7 @@
 				<verse number="34">Ito ang mga tuntunin na ibinigay ni Yahweh kay Moises sa Bundok ng Sinai para sa sambayanang Israel.</verse>
 			</chapter>
 		</book>
-		<book number="4">
+		<book number="Mga Bilang">
 			<chapter number="1">
 				<verse number="1">Noong unang araw ng ikalawang buwan matapos umalis sa Egipto ang sambayanang Israel, si Yahweh ay nangusap kay Moises habang siya'y nasa loob ng Toldang Tipanan na noo'y nasa ilang ng Sinai. Ang sabi ni Yahweh,</verse>
 				<verse number="2">“Magsagawa ka ng isang sensus. Bilangin at ilista ninyo ang pangalan ng buong sambayanan ng Israel ayon sa kani-kanilang angkan at lipi. Ilista ninyo ang lahat ng lalaki</verse>
@@ -5035,7 +5035,7 @@
 				<verse number="13">Ito ang mga batas at tuntuning ibinigay ni Yahweh sa Israel sa pamamagitan ni Moises, sa kapatagan ng Moab sa tabi ng Jordan, sa tapat ng Jerico.</verse>
 			</chapter>
 		</book>
-		<book number="5">
+		<book number="Deuteronomio">
 			<chapter number="1">
 				<verse number="1">Ito ang tagubilin ni Moises sa buong Israel nang sila'y nasa ilang sa ibayo ng Jordan, sa Araba. Ito ay nasa tapat ng Suf, sa pagitan ng bayan ng Paran, Tofel, Laban, Hazerot at Di-zahab.</verse>
 				<verse number="2">(Labing-isang araw ang paglalakbay mula sa Sinai hanggang sa Kades-barnea kung sa kaburulan ng Seir dadaan.)</verse>
@@ -6064,7 +6064,7 @@
 				<verse number="12">Walang ibang nakagawa ng makapangyarihan at pambihirang mga gawa tulad ng ginawa ni Moises sa harapan ng bayang Israel.</verse>
 			</chapter>
 		</book>
-		<book number="6">
+		<book number="Josue">
 			<chapter number="1">
 				<verse number="1">Pagkamatay ni Moises na lingkod ni Yahweh, sinabi ni Yahweh kay Josue na anak ni Nun at lingkod ni Moises,</verse>
 				<verse number="2">“Patay na ang lingkod kong si Moises. Ngayo'y humanda ka at ang buong Israel, at tumawid kayo sa Ilog Jordan, patungo sa lupaing ibinibigay ko sa kanila.</verse>
@@ -6772,7 +6772,7 @@
 				<verse number="33">Namatay din si Eleazar na anak ni Aaron at inilibing sa Gibea, ang bayang ibinigay sa anak niyang si Finehas sa kaburulan ng Efraim.</verse>
 			</chapter>
 		</book>
-		<book number="7">
+		<book number="Mga Hukom">
 			<chapter number="1">
 				<verse number="1">Pagkamatay ni Josue, nagtanong kay Yahweh ang mga Israelita, “Sino sa amin ang unang sasalakay sa mga Cananeo?”</verse>
 				<verse number="2">“Ang lipi ni Juda ang mauuna. Ipapasakop ko sa kanila ang lupain,” sagot ni Yahweh.</verse>
@@ -7434,7 +7434,7 @@
 				<verse number="25">Nang panahong iyon ay wala pang hari sa Israel; ginagawa ng bawat isa ang lahat ng kanilang magustuhan.</verse>
 			</chapter>
 		</book>
-		<book number="8">
+		<book number="Ruth">
 			<chapter number="1">
 				<verse number="1">Nang ang Israel ay pinamumunuan pa ng mga hukom, nagkaroon ng taggutom sa buong bayan. Kaya't ang mag-asawang Elimelec at Naomi na mga taga-Bethlehem, Juda ay pansamantala munang nanirahan sa Moab kasama ang kanilang mga anak na sina Mahlon at Quelion. Ang pamilyang ito ay mula sa angkan ng Efrata.</verse>
 				<verse number="2"></verse>
@@ -7529,7 +7529,7 @@
 				<verse number="22"></verse>
 			</chapter>
 		</book>
-		<book number="9">
+		<book number="1 Samuel">
 			<chapter number="1">
 				<verse number="1">Sa Ramataim-zofim, isang bayan sa kaburulan ng Efraim ay may nakatirang lalaki na nagngangalang Elkana. Siya'y anak ni Jeroham at apo ni Elihu na mula sa sambahayan ni Tohu at mula sa angkan ni Zuf na Efrateo.</verse>
 				<verse number="2">Dalawa ang asawa ni Elkana, sina Ana at Penina. May mga anak si Penina ngunit si Ana ay wala.</verse>
@@ -8403,7 +8403,7 @@
 				<verse number="13">Pagkatapos, kinuha nila ang mga buto at ibinaon sa ilalim ng punong tamarisko sa Jabes. Pitong araw silang nag-ayuno bilang pagluluksa.</verse>
 			</chapter>
 		</book>
-		<book number="10">
+		<book number="2 Samuel">
 			<chapter number="1">
 				<verse number="1">Nang magbalik si David buhat sa matagumpay na pakikidigma laban sa mga Amalekita, tumigil siya ng dalawang araw sa Ziklag.</verse>
 				<verse number="2">Nang sumunod na araw, dumating buhat sa labanan ang isang lalaking punit ang kasuotan at puno ng alikabok ang ulo. Lumapit ito kay David at nagpatirapa bilang pagbibigay-galang.</verse>
@@ -9148,7 +9148,7 @@
 				<verse number="25">Gumawa nga siya ng altar at nagdala roon ng handog na susunugin at handog pangkapayapaan. Pinakinggan ni Yahweh ang panalangin ni David para sa bansa at tumigil na nga ang salot sa Israel.</verse>
 			</chapter>
 		</book>
-		<book number="11">
+		<book number="1 Mga Hari">
 			<chapter number="1">
 				<verse number="1">Matandang-matanda na noon si Haring David. Kahit kumutan ng makapal ay giniginaw pa rin siya.</verse>
 				<verse number="2">Kaya't sinabi ng kanyang mga lingkod, “Kung ipapahintulot po ninyo, Kamahalan, ihahanap namin kayo ng isang dalaga na dito titira at mag-aalaga sa inyo. Matutulog siya sa tabi ninyo upang mabigyan kayo ng init.”</verse>
@@ -10010,7 +10010,7 @@
 				<verse number="53">Naglingkod siya at sumamba kay Baal. Ginalit niya si Yahweh, ang Diyos ng Israel, tulad ng ginawa ng kanyang ama noong una.</verse>
 			</chapter>
 		</book>
-		<book number="12">
+		<book number="2 Mga Hari">
 			<chapter number="1">
 				<verse number="1">Nang mamatay si Ahab, naghimagsik ang Moab laban sa Israel.</verse>
 				<verse number="2">Si Ahazias ay nahulog noon mula sa balkonahe sa bubungan ng palasyo niya sa Samaria at naging malubha ang kalagayan. Kaya nagpadala siya ng mga sugo sa Ekron upang isangguni sa diyos ng mga Filisteo na si Baalzebub kung gagaling pa siya o hindi.</verse>
@@ -10781,7 +10781,7 @@
 				<verse number="30">Habang siya'y nabubuhay, binigyan siya ng hari ng kanyang araw-araw na pangangailangan.</verse>
 			</chapter>
 		</book>
-		<book number="13">
+		<book number="1 Mga Cronica">
 			<chapter number="1">
 				<verse number="1">Si Adan ang ama ni Set at si Set ang ama ni Enos.</verse>
 				<verse number="2">Si Enos ang ama ni Kenan at si Kenan ang ama ni Mahalalel na ama ni Jared.</verse>
@@ -11715,7 +11715,7 @@
 				<verse number="30">Sa mga aklat na iyon nakasulat kung paano siya namahala, gaano kalawak ang kanyang kapangyarihan at ang mga nangyari sa kanya sa Israel, at sa lahat ng mga kaharian sa paligid.</verse>
 			</chapter>
 		</book>
-		<book number="14">
+		<book number="2 Mga Cronica">
 			<chapter number="1">
 				<verse number="1">Naging matatag ang paghahari ni Solomon na anak ni David sapagkat pinagpapala siya ng Diyos niyang si Yahweh at pinalakas ang kanyang kapangyarihan.</verse>
 				<verse number="2">Ipinatawag niya ang mga pinunong namamahala sa libu-libo at sa daan-daan, ang lahat ng may kapangyarihan at ang buong bayan.</verse>
@@ -12611,7 +12611,7 @@
 				<verse number="23">“Ito ang pahayag ni Haring Ciro ng Persia: ‘Ipinaubaya sa akin ni Yahweh, ang Diyos ng kalangitan, ang lahat ng kaharian sa daigdig at inutusan niya akong magtayo para sa kanya ng Templo sa Jerusalem ng Juda. Kaya, ang sinuman sa inyo na kabilang sa kanyang bayan ay pinahihintulutan kong pumunta sa Jerusalem. Samahan nawa kayo ng Diyos ninyong si Yahweh.’”</verse>
 			</chapter>
 		</book>
-		<book number="15">
+		<book number="Ezra">
 			<chapter number="1">
 				<verse number="1">Noong unang taon ng paghahari ni Ciro sa Persia, natupad ang sinabi ni Yahweh sa pamamagitan ni Propeta Jeremias nang udyukan ni Yahweh si Ciro na isulat at ipahayag sa buong kaharian ang utos na ito:</verse>
 				<verse number="2">“Ito ang utos ni Emperador Ciro, ng Persia: Ibinigay sa akin ni Yahweh, ang Diyos ng kalangitan, ang lahat ng kaharian sa buong daigdig at inatasan niya ako na ipagtayo ko siya ng templo sa Jerusalem na nasa Juda.</verse>
@@ -12845,7 +12845,7 @@
 				<verse number="44">Ang lahat ng ito ay may mga asawang banyaga na hiniwalayan nila at pinaalis kasama ang kani-kanilang mga anak.</verse>
 			</chapter>
 		</book>
-		<book number="16">
+		<book number="Nehemias">
 			<chapter number="1">
 				<verse number="1">Ito ang kasaysayan ng mga nagawa ni Nehemias na anak ni Hacalias. Noon ay ikasiyam na buwan, ng ikadalawampung taon ng paghahari ni Artaxerxes. Akong si Nehemias ay nasa Lunsod ng Susa, ang kabiserang lunsod,</verse>
 				<verse number="2">nang dumating ang kapatid kong si Hanani, kasama ang isang pangkat ng mga lalaki mula sa Juda. Kinumusta ko sila tungkol sa Jerusalem at sa mga Judiong nagbalik sa Juda mula sa pagkabihag sa Babilonia.</verse>
@@ -13189,7 +13189,7 @@
 				<verse number="31">Isinaayos ko rin ang pagdadala sa takdang oras ng mga kahoy na gagamiting panggatong sa pagsunog ng mga handog, gayundin ang pagdadala ng mga tao sa mga unang ani ng butil at bungangkahoy. Alalahanin ninyo, O aking Diyos, ang lahat ng ito at ako po'y pagpalain ninyo.</verse>
 			</chapter>
 		</book>
-		<book number="17">
+		<book number="Ester">
 			<chapter number="1">
 				<verse number="1">Nang panahon ni Haring Xerxes ng Persia, ang sakop niya'y mula sa India hanggang Etiopia. Binubuo ito ng 127 lalawigan.</verse>
 				<verse number="2">Ang kanyang palasyo ay nasa Lunsod ng Susa na siyang kapitolyo ng Persia.</verse>
@@ -13378,7 +13378,7 @@
 				<verse number="3">Si Mordecai na isang Judio ay naging kanang kamay ni Haring Xerxes. Siya ay mahal na mahal at iginalang ng mga kapwa niya Judio sapagkat ginawa niya ang lahat para sa kapakanan at kabutihan nila.</verse>
 			</chapter>
 		</book>
-		<book number="18">
+		<book number="Job">
 			<chapter number="1">
 				<verse number="1">May isang lalaking nakatira sa lupain ng Uz na nagngangalang Job. Siya'y isang mabuting tao, sumasamba sa Diyos at umiiwas sa masamang gawain.</verse>
 				<verse number="2">Mayroon siyang pitong anak na lalaki at tatlong anak na babae.</verse>
@@ -14534,7 +14534,7 @@
 				<verse number="17">Matandang-matanda na siya nang mamatay.</verse>
 			</chapter>
 		</book>
-		<book number="19">
+		<book number="Mga Awit">
 			<chapter number="1">
 				<verse number="1">Mapalad ang taong hindi nakikinig sa payo ng masama, at hindi sumusunod sa masama nilang halimbawa. Hindi siya nakikisama sa mga kumukutya at hindi nakikisangkot sa gawaing masama.</verse>
 				<verse number="2">Sa halip, kasiyahan niyang sumunod sa kautusan ni Yahweh. Binubulay-bulay niya ito sa araw at gabi.</verse>
@@ -17297,7 +17297,7 @@
 				<verse number="6">Purihin si Yahweh lahat ng nilalang! Purihin si Yahweh!</verse>
 			</chapter>
 		</book>
-		<book number="20">
+		<book number="Mga Kawikaan">
 			<chapter number="1">
 				<verse number="1">Ang mga kawikaan ni Solomon na anak ni David, hari ng Israel.</verse>
 				<verse number="2">Sa pamamagitan nito, ang tao'y magtatamo ng karunungan at pang-unawa sa mga salitang puno ng aral sa buhay.</verse>
@@ -18276,7 +18276,7 @@
 				<verse number="31">Ibigay sa kanya ang lahat ng parangal, karapat-dapat siya sa papuri ng bayan.</verse>
 			</chapter>
 		</book>
-		<book number="21">
+		<book number="Ang Mangangaral">
 			<chapter number="1">
 				<verse number="1">Ito ang mga katuruan ng Mangangaral, ang anak ni David na hari ng Israel.</verse>
 				<verse number="2">“Napakawalang kabuluhan! Napakawalang kabuluhan; lahat ay walang kabuluhan,” sabi ng Mangangaral.</verse>
@@ -18524,7 +18524,7 @@
 				<verse number="14">Lahat ng gawin natin, hayag man o lihim, mabuti o masama ay ipagsusulit natin sa Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="22">
+		<book number="Ang Awit ni Solomon">
 			<chapter number="1">
 				<verse number="1">Ito ang pinakamagandang awit ni Solomon:</verse>
 				<verse number="2">Akong ito'y pinupupog, sinisiil mo ng halik; ang dulot ng pag-ibig mo'y mainam pa sa alak.</verse>
@@ -18659,7 +18659,7 @@
 				<verse number="14">Halika na aking sinta, madali aking mahal, tulad ng pagtakbo ng usa sa kaburulan na punung-puno ng mababangong halaman.</verse>
 			</chapter>
 		</book>
-		<book number="23">
+		<book number="Isaias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng pangitain ni Isaias na anak ni Amoz tungkol sa Juda at sa Jerusalem noong panahon ng paghahari sa Juda nina Uzias, Jotam, Ahaz at Hezekias.</verse>
 				<verse number="2">Makinig ang kalangitan gayundin ang kalupaan, sapagkat si Yahweh ay nagsasalita, “Pinalaki ko't inalagaan ang aking mga anak, ngunit naghimagsik sila laban sa akin.</verse>
@@ -20085,7 +20085,7 @@
 				<verse number="24">“Sa kanilang pag-alis, makikita nila ang mga bangkay ng mga naghimagsik laban sa akin. Ang uod na kakain sa kanila'y hindi mamamatay, gayon din ang apoy na susunog sa kanila. Ang kalagayan nila'y magiging kahiya-hiya sa buong sangkatauhan.”</verse>
 			</chapter>
 		</book>
-		<book number="24">
+		<book number="Jeremias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga sinabi at ginawa ni Jeremias na anak ni Hilkias, isang pari na mula sa bayan ng Anatot, sa lupain ni Benjamin.</verse>
 				<verse number="2">Si Yahweh ay nagpahayag sa kanya noong ikalabintatlong taon ng paghahari sa Juda ni Haring Josias, anak ni Haring Ammon.</verse>
@@ -21555,7 +21555,7 @@
 				<verse number="34">Araw-araw, ang kanyang pangangailangan ay ibinibigay ng hari ng Babilonia, habang siya'y nabubuhay, hanggang sa araw ng kanyang kamatayan.</verse>
 			</chapter>
 		</book>
-		<book number="25">
+		<book number="Mga Panaghoy">
 			<chapter number="1">
 				<verse number="1">O anong lungkot ng lunsod na dating matao! Siya na dating bantog sa buong mundo ngayo'y tulad na ng isang balo; siya na dating pangunahing lunsod ngayon ay isa nang lingkod!</verse>
 				<verse number="2">Buong kapaitan siyang umiiyak sa magdamag, ang mga mata'y laging luhaan; lumayo na ang lahat at walang natira kahit isa upang umaliw sa kanya. Ang dati niyang mga kaibigan ngayon ay naging mga kaaway na.</verse>
@@ -21721,7 +21721,7 @@
 				<verse number="22">Talaga bang itinakwil mo na kami? Sukdulan na bang talaga ang galit mo sa amin?</verse>
 			</chapter>
 		</book>
-		<book number="26">
+		<book number="Ezekiel">
 			<chapter number="1">
 				<verse number="1">Akong si Ezekiel ay isa sa mga dinalang-bihag sa baybay ng Ilog Kebar. Noong ikalimang araw ng ikaapat na buwan ng ikatatlumpung taon, nabuksan ang langit at isang pangitain mula sa Diyos ang aking nakita.</verse>
 				<verse number="2">Ikalimang araw noon ng ikaapat na buwan ng ikalimang taon ng pagkatapon kay Haring Jehoiakin.</verse>
@@ -23092,7 +23092,7 @@
 				<verse number="35">Ang sukat sa paligid ng lunsod ay 9,000 metro. Mula ngayon, ang ipapangalan sa lunsod ay, ‘Naroon si Yahweh.’</verse>
 			</chapter>
 		</book>
-		<book number="27">
+		<book number="Daniel">
 			<chapter number="1">
 				<verse number="1">Nang ikatlong taon ng paghahari ni Haring Jehoiakim sa Juda, ang Jerusalem ay kinubkob ni Nebucadnezar na hari ng Babilonia.</verse>
 				<verse number="2">Pinahintulutan ng Panginoon na bihagin niya si Haring Jehoiakim at samsamin ang ilang kasangkapan sa Templo. Lahat ng ito ay dinala ni Nebucadnezar sa lupain ng Babilonia at inilagay sa kabang-yaman ng templo ng kanyang mga diyos.</verse>
@@ -23475,7 +23475,7 @@
 				<verse number="13">Daniel, maging tapat ka nawa hanggang sa wakas. Mamamatay ka ngunit muling bubuhayin sa huling araw upang tanggapin ang iyong gantimpala.”</verse>
 			</chapter>
 		</book>
-		<book number="28">
+		<book number="Hosea">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Yahweh kay Hosea, na anak ni Beeri. Si Yahweh ay nagpahayag sa kanya noong panahon ng paghahari sa Juda nina Uzias, Jotam, Ahaz, at Hezekias. Si Jeroboam na anak ni Jehoas ang hari noon ng Israel.</verse>
 				<verse number="2">Nang unang mangusap si Yahweh sa Israel sa pamamagitan ni Hosea, sinabi niya, “Mag-asawa ka ng isang babaing nakikipagtalik sa iba-ibang mga lalaki. Magkaroon ka ng mga anak sa kanya. Sapagkat katulad din ng babaing iyan, ang mga tao sa lupaing ito ay nagtaksil sa akin.”</verse>
@@ -23702,7 +23702,7 @@
 				<verse number="9">Unawain ng matalino ang mga bagay na ito, at dapat mabatid ng mga marunong. Matuwid ang mga kaparaanan ni Yahweh, at ang mabubuti'y doon lumalakad, ngunit nadarapa ang mga masuwayin.</verse>
 			</chapter>
 		</book>
-		<book number="29">
+		<book number="Joel">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mensahe ni Yahweh sa pamamagitan ni Joel na anak ni Petuel.</verse>
 				<verse number="2">Makinig kayo, matatandang pinuno, pakinggan ninyo ito, lahat ng nasa Juda. May nangyari na bang ganito sa inyong panahon, o sa panahon ng inyong mga ninuno?</verse>
@@ -23783,7 +23783,7 @@
 				<verse number="21"></verse>
 			</chapter>
 		</book>
-		<book number="30">
+		<book number="Amos">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Amos, isang pastol na taga-Tekoa. Ang mga bagay na tungkol sa Israel ay ipinahayag sa kanya ng Diyos dalawang taon bago lumindol. Si Uzias noon ang hari ng Juda, at si Jeroboam namang anak ni Joas ang hari ng Israel.</verse>
 				<verse number="2">Sinabi ni Amos, “Dumadagundong mula sa Bundok ng Zion ang tinig ni Yahweh, mula sa Jerusalem ang kanyang tinig ay naririnig. Natutuyo ang mga pastulan, nalalanta pati ang mga damo sa Bundok Carmel.”</verse>
@@ -23949,7 +23949,7 @@
 				<verse number="15">Ibabalik ko ang Israel sa lupaing ibinigay ko sa kanila, at hindi na sila maaalis pang muli roon.” Si Yahweh na inyong Diyos ang nagsasalita.</verse>
 			</chapter>
 		</book>
-		<book number="31">
+		<book number="Obadias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng pangitaing ibinigay ng Panginoong Yahweh kay Propeta Obadias tungkol sa Edom. May narinig kaming ulat buhat sa Panginoong Yahweh; may isang sugo na ipinadala sa mga bansa: “Humanda kayo at ang Edom ay salakayin!”</verse>
 				<verse number="2">Sinabi ni Yahweh sa Edom, “Gagawin kitang pinakamahinang bansa, at kamumuhian ka ng lahat ng mga tao.</verse>
@@ -23974,7 +23974,7 @@
 				<verse number="21">Ang matagumpay na hukbo ng Jerusalem, sasalakay sa Edom at doo'y mamamahala. Si Yahweh mismo ang doo'y maghahari.”</verse>
 			</chapter>
 		</book>
-		<book number="32">
+		<book number="Jonas">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mensahe ni Yahweh sa pamamagitan ni Jonas na anak ni Amitai. Isang araw, sinabi sa kanya ni Yahweh:</verse>
 				<verse number="2">“Pumunta ka sa Nineve na isang malaking lunsod, at sabihin mo sa mga tagaroon na umabot na sa aking kaalaman ang kanilang kasalanan.”</verse>
@@ -24032,7 +24032,7 @@
 				<verse number="11">Ako pa kaya ang hindi malulungkot sa kalagayan ng Nineve? Ito'y isang malaking lunsod na tinitirhan ng mahigit na 120,000 taong hindi alam kung ano ang mabuti o ang masama, bukod pa sa maraming kawan!”</verse>
 			</chapter>
 		</book>
-		<book number="33">
+		<book number="Mikas">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Mikas na isang taga-Moreset. Noong panahon ng paghahari sa Juda ni Haring Jotam, Haring Ahaz, at Haring Hezekias, sinabi sa kanya ni Yahweh ang mga pahayag tungkol sa Samaria at sa Jerusalem.</verse>
 				<verse number="2">Pakinggan ninyo ito, mga bansa, kayong lahat na naninirahan sa buong daigdig. Ang pahayag ng Panginoong Yahweh laban sa inyo ay pakinggan. Siya'y nagsasalita buhat sa kanyang banal na templo.</verse>
@@ -24153,7 +24153,7 @@
 				<verse number="20">Patunayan mo ang iyong katapatan sa bayan ni Jacob at ang iyong pag-ibig sa angkan ni Abraham, gaya ng iyong ipinangako sa aming mga ninuno mula pa noong unang panahon.</verse>
 			</chapter>
 		</book>
-		<book number="34">
+		<book number="Nahum">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Yahweh patungkol sa Nineve sa pamamagitan ni Nahum na isang taga-Elcos.</verse>
 				<verse number="2">Si Yahweh ay Diyos na mapanibughuin at mapaghiganti; si Yahweh ay naghihiganti at napopoot. Si Yahweh ay Diyos na mapanibughuin; kanyang mga kaaway, kanyang pinaparusahan.</verse>
@@ -24208,7 +24208,7 @@
 				<verse number="19">Wala man lang gumamot sa iyong sugat na malubha at nagnanaknak. Lahat ng makabalita sa sinapit mo ay natutuwa't pumapalakpak, sapagkat ginawan mo silang lahat nang napakasama.</verse>
 			</chapter>
 		</book>
-		<book number="35">
+		<book number="Habakuk">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng pahayag ni Yahweh sa pamamagitan ni Propeta Habakuk.</verse>
 				<verse number="2">O Yahweh, hanggang kailan ako hihingi ng tulong sa inyo, bago ninyo ako dinggin, bago ninyo ako iligtas sa karahasan?</verse>
@@ -24272,7 +24272,7 @@
 				<verse number="19">Ang Panginoong Yahweh ang sa aki'y nagpapalakas. Tulad ng usa, tiyak ang aking mga hakbang, inaalalayan niya ako sa mga kabundukan.</verse>
 			</chapter>
 		</book>
-		<book number="36">
+		<book number="Zefanias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Yahweh sa pamamagitan ni Propeta Zefanias, anak ni Cusi at apo ni Gedalias; si Gedalias ay anak ni Amarias at apo ni Hezekias. Tinanggap ni Zefanias ang pahayag na ito nang si Josias na anak ni Ammon ang hari sa Juda.</verse>
 				<verse number="2">“Wawasakin ko ang lahat ng bagay sa balat ng lupa,” sabi ni Yahweh.</verse>
@@ -24333,7 +24333,7 @@
 				<verse number="20">Sa panahong iyon, kayo'y aking titipunin at ibabalik sa inyong tahanan. Gagawin ko kayong bantog sa buong daigdig, at muli kong ibabalik ang inyong kayamanan at kasaganaan.” Si Yahweh ang nagsabi nito.</verse>
 			</chapter>
 		</book>
-		<book number="37">
+		<book number="Hagai">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng mga pahayag ni Yahweh sa pamamagitan ni Hagai. Noong ikalawang taon ng paghahari ni Haring Dario sa Persia, noong unang araw ng ikaanim na buwan, si Yahweh ay nangusap kay Hagai para kay Zerubabel na gobernador ng Juda, anak ni Sealtiel, at sa pinakapunong pari na si Josue, anak ni Jehozadak.</verse>
 				<verse number="2">Ganito ang ipinapasabi ni Yahweh na Makapangyarihan sa lahat: “Sinasabi ng mga taong ito na diumano'y hindi pa napapanahon upang itayong muli ang Templo.”</verse>
@@ -24377,7 +24377,7 @@
 				<verse number="23">Pagsapit ng araw na iyon, kukunin kita Zerubabel na aking lingkod. Itatalaga kita upang maghari sa ilalim ng aking kapangyarihan. Ikaw ang aking pinili.” Iyan ang pahayag ni Yahweh na Makapangyarihan sa lahat.</verse>
 			</chapter>
 		</book>
-		<book number="38">
+		<book number="Zacarias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng pahayag ni Yahweh sa pamamagitan ni Propeta Zacarias, anak ni Berequias at apo ni Propeta Iddo. Noong ikawalong buwan, ng ikalawang taon ng paghahari ni Haring Dario ng Persia, nangusap si Yahweh sa kanya.</verse>
 				<verse number="2">Ipinasabi niya sa mga taga-Juda, “Labis akong napoot sa inyong mga ninuno.</verse>
@@ -24618,7 +24618,7 @@
 				<verse number="21">Lahat ng lutuan sa Jerusalem at Juda ay magiging sagrado para kay Yahweh upang magamit sa lahat ng paghahandog. At mawawala na ang mga mangangalakal sa templo ni Yahweh.</verse>
 			</chapter>
 		</book>
-		<book number="39">
+		<book number="Malakias">
 			<chapter number="1">
 				<verse number="1">Ang aklat na ito ay naglalaman ng pahayag ni Yahweh tungkol sa Israel sa pamamagitan ni Propeta Malakias. Sinabi ni Yahweh sa bayan ng Israel:</verse>
 				<verse number="2">“Inibig ko na kayo noong una pa man, subalit sinasabi naman ninyo, ‘Paano ninyo ipinakita ang inyong pag-ibig sa amin?’ Hindi ba't magkapatid sina Esau at Jacob ngunit minahal ko si Jacob at ang kanyang mga salinlahi,</verse>
@@ -24685,7 +24685,7 @@
 		</book>
 	</testament>
 	<testament name="New">
-		<book number="40">
+		<book number="Mateo">
 			<chapter number="1">
 				<verse number="1">Ito ang talaan ng mga ninuno ni Jesu-Cristo na mula sa angkan ni David na mula naman sa lahi ni Abraham.</verse>
 				<verse number="2">Mula kay Abraham hanggang kay Haring David, ang mga ninuno ni Jesus ay sina: Abraham, Isaac, Jacob na ama ni Juda at ng kanyang mga kapatid; Juda na ama ni Fares at Zara kay Tamar; Fares, Esrom, Aram, Aminadab, Naason, Salmon, Boaz na anak ni Salmon kay Rahab; Obed na anak ni Boaz kay Ruth; at Jesse na ama ni Haring David.</verse>
@@ -25802,7 +25802,7 @@
 				<verse number="20">Turuan ninyo silang sumunod sa lahat ng iniutos ko sa inyo. Tandaan ninyo, ako'y laging kasama ninyo hanggang sa katapusan ng panahon.”</verse>
 			</chapter>
 		</book>
-		<book number="41">
+		<book number="Marcos">
 			<chapter number="1">
 				<verse number="1">Ito ang simula ng Magandang Balita tungkol kay Jesu-Cristo, [ang Anak ng Diyos].</verse>
 				<verse number="2">Tulad ng nakasulat sa aklat ni propeta Isaias, “Narito ang sugo ko na aking ipadadalang mauuna sa iyo; ihahanda niya ang iyong daraanan.</verse>
@@ -26514,7 +26514,7 @@
 				<verse number="20">Humayo nga at nangaral ang mga alagad sa lahat ng dako. Tinulungan sila ng Panginoon sa gawaing ito. Pinatunayan niyang totoo ang kanilang ipinapangaral sa pamamagitan ng mga himala na ipinagkaloob niya sa kanila.] [</verse>
 			</chapter>
 		</book>
-		<book number="42">
+		<book number="Lucas">
 			<chapter number="1">
 				<verse number="1">Kagalang-galang na Teofilo, marami na po ang nagsikap na sumulat tungkol sa mga bagay na naganap sa kalagitnaan namin.</verse>
 				<verse number="2">Ang kanilang isinulat ay ayon sa itinuro sa amin ng mga taong buhat pa sa simula ay mga saksi at mga tagapangaral ng Salita ng Diyos.</verse>
@@ -27715,7 +27715,7 @@
 				<verse number="53">Palagi silang nasa Templo at doo'y nagpupuri sa Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="43">
+		<book number="Juan">
 			<chapter number="1">
 				<verse number="1">Nang pasimula ay naroon na ang Salita; ang Salita ay kasama ng Diyos, at ang Salita ay Diyos.</verse>
 				<verse number="2">Sa pasimula ay kasama na ng Diyos ang Salita.</verse>
@@ -28638,7 +28638,7 @@
 				<verse number="25">At marami pang ginawa si Jesus na kung isusulat lahat, sa palagay ko'y hindi magkakasya kahit sa buong daigdig ang mga aklat na maisusulat.</verse>
 			</chapter>
 		</book>
-		<book number="44">
+		<book number="Mga Gawa">
 			<chapter number="1">
 				<verse number="1">Mahal kong Teofilo, Sa aking unang aklat ay isinalaysay ko ang lahat ng ginawa at itinuro ni Jesus buhat sa pasimula</verse>
 				<verse number="2">hanggang sa araw na siya'y umakyat sa langit. Bago siya umakyat, sa pamamagitan ng kapangyarihan ng Espiritu Santo ay nag-iwan siya ng mga bilin sa kanyang mga apostol na kanyang hinirang.</verse>
@@ -29703,7 +29703,7 @@
 				<verse number="31">Siya'y buong tapang at malayang nangaral tungkol sa kaharian ng Diyos at sa Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="45">
+		<book number="Roma">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na isang lingkod ni Cristo Jesus, tinawag upang maging apostol at hinirang upang mangaral ng Magandang Balita ng Diyos.</verse>
 				<verse number="2">Ang Magandang Balitang ito na ipinangako niya noong una pa man sa pamamagitan ng mga propeta, at sinasabi sa mga Banal na Kasulatan,</verse>
@@ -30170,7 +30170,7 @@
 				<verse number="27">Sa iisang Diyos, na sa lahat ay ganap ang karunungan—sa kanya iukol ang karangalan magpakailanman sa pamamagitan ni Jesu-Cristo! Amen.]</verse>
 			</chapter>
 		</book>
-		<book number="46">
+		<book number="1 Corinto">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na tinawag ayon sa kalooban ng Diyos upang maging apostol ni Cristo Jesus, at mula kay Sostenes na ating kapatid,</verse>
 				<verse number="2">para sa iglesya ng Diyos na nasa Corinto, sa mga tinawag upang maging kabilang sa sambayanan ng Diyos sa pamamagitan ng pakikipag-isa kay Cristo Jesus, gayundin sa lahat ng tao na nasa lahat ng dako na tumatawag sa pangalan ni Jesu-Cristo, na Panginoon nating lahat.</verse>
@@ -30641,7 +30641,7 @@
 				<verse number="24">Sumainyong lahat ang aking pagmamahal sa pangalan ni Cristo Jesus.</verse>
 			</chapter>
 		</book>
-		<book number="47">
+		<book number="2 Corinto">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na isang apostol ni Cristo Jesus ayon sa kalooban ng Diyos, kasama ang kapatid nating si Timoteo— Para sa iglesya ng Diyos sa Corinto at sa mga hinirang ng Diyos, na nasa buong Acaya.</verse>
 				<verse number="2">Sumainyo nawa ang pagpapala at ang kapayapaang mula sa Diyos na ating Ama at sa Panginoong Jesu-Cristo.</verse>
@@ -30925,7 +30925,7 @@
 				<verse number="13">Nawa'y sumainyong lahat ang kagandahang-loob ng Panginoong Jesu-Cristo, at ang pag-ibig ng Diyos, at ang pakikisama ng Espiritu Santo.</verse>
 			</chapter>
 		</book>
-		<book number="48">
+		<book number="Galacia">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na hinirang na apostol, hindi ng tao o sa pamamagitan ng tao, kundi ni Jesu-Cristo at ng Diyos Ama na muling bumuhay kay Jesus,</verse>
 				<verse number="2">at mula sa lahat ng mga kapatid na kasama ko, pagbati sa mga iglesya sa Galacia:</verse>
@@ -31088,7 +31088,7 @@
 				<verse number="18">Mga kapatid, sumainyo nawang lahat ang kagandahang-loob ng ating Panginoong Jesu-Cristo. Amen.</verse>
 			</chapter>
 		</book>
-		<book number="49">
+		<book number="Efeso">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo, na apostol ni Cristo Jesus ayon sa kalooban ng Diyos, Para sa mga hinirang ng Diyos [na nasa Efeso] at tapat na sumasampalataya kay Cristo Jesus:</verse>
 				<verse number="2">Sumainyo nawa ang kagandahang-loob at kapayapaang mula sa Diyos na ating Ama at sa Panginoong Jesu-Cristo.</verse>
@@ -31257,7 +31257,7 @@
 				<verse number="24">Ang kagandahang-loob ng Diyos ay sumainyong lahat na umiibig nang walang maliw sa ating Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="50">
+		<book number="Filipos">
 			<chapter number="1">
 				<verse number="1">Mula kina Pablo at Timoteo na mga lingkod ni Cristo Jesus, Para sa mga taga-Filipos na mga hinirang ng Diyos at sumasampalataya kay Cristo Jesus, gayundin sa mga tagapangasiwa at mga tagapaglingkod:</verse>
 				<verse number="2">Sumainyo nawa ang kagandahang-loob at kapayapaan ng Diyos na ating Ama at ng Panginoong Jesu-Cristo.</verse>
@@ -31371,7 +31371,7 @@
 				<verse number="23">Nawa'y taglayin ng inyong espiritu ang kagandahang-loob ng Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="51">
+		<book number="Colosas">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo, apostol ni Cristo Jesus ayon sa kalooban ng Diyos, at mula rin sa kapatid nating si Timoteo:</verse>
 				<verse number="2">Para sa mga taga-Colosas na hinirang ng Diyos at mga tapat na kapatid kay Cristo. Sumainyo nawa ang kagandahang-loob at kapayapaang mula sa Diyos na ating Ama.</verse>
@@ -31476,7 +31476,7 @@
 				<verse number="18">Ako mismong si Pablo ang sumusulat ng pagbating ito. Huwag ninyong kalimutan na ako'y nakabilanggo. Sumainyo nawa ang kagandahang-loob ng Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="52">
+		<book number="1 Tesalonica">
 			<chapter number="1">
 				<verse number="1">Mula kina Pablo, Silas, at Timoteo— Para sa iglesya sa Tesalonica, na nasa Diyos Ama at nasa Panginoong Jesu-Cristo. Kagandahang-loob at kapayapaan nawa ang sumainyo.</verse>
 				<verse number="2">Lagi kaming nagpapasalamat sa Diyos dahil sa inyo at tuwina'y kasama kayo sa aming mga dalangin.</verse>
@@ -31577,7 +31577,7 @@
 				<verse number="28">Sumainyo nawa ang kagandahang-loob ng ating Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="53">
+		<book number="2 Tesalonica">
 			<chapter number="1">
 				<verse number="1">Mula kina Pablo, Silas, at Timoteo— Para sa iglesya sa Tesalonica, na nasa Diyos na ating Ama at nasa Panginoong Jesu-Cristo.</verse>
 				<verse number="2">Sumainyo nawa ang kagandahang-loob at ang kapayapaang mula sa [ating] Diyos Ama at sa Panginoong Jesu-Cristo.</verse>
@@ -31632,7 +31632,7 @@
 				<verse number="18">Sumainyo nawang lahat ang kagandahang-loob ng ating Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="54">
+		<book number="1 Timoteo">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na apostol ni Cristo Jesus ayon sa utos ng Diyos na ating Tagapagligtas at ni Cristo Jesus na ating pag-asa—</verse>
 				<verse number="2">Kay Timoteo na tunay kong anak sa pananampalataya. Sumaiyo nawa ang kagandahang-loob, habag at kapayapaang buhat sa Diyos Ama at kay Cristo Jesus na ating Panginoon.</verse>
@@ -31759,7 +31759,7 @@
 				<verse number="21">Dahil sa kanilang pag-aangking mayroon sila nito, may mga nalihis na sa pananampalataya. Sumainyo ang kagandahang-loob ng Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="55">
+		<book number="2 Timoteo">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo na apostol ni Cristo Jesus ayon sa kalooban ng Diyos upang ipangaral ang tungkol sa buhay na ipinangakong makakamtan natin sa pamamagitan ng pakikipag-isa kay Cristo Jesus—</verse>
 				<verse number="2">Kay Timoteo na minamahal kong anak. Sumaiyo nawa ang kagandahang-loob, kahabagan, at kapayapaang mula sa Diyos Ama at kay Cristo Jesus na ating Panginoon.</verse>
@@ -31852,7 +31852,7 @@
 				<verse number="22">Samahan nawa ng Panginoon ang iyong espiritu. Sumainyo nawang lahat ang kagandahang-loob ng Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="56">
+		<book number="Tito">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo, lingkod ng Diyos at apostol ni Jesu-Cristo. Sinugo ako upang patibayin ang pananampalataya ng mga hinirang ng Diyos, at upang palawakin ang kanilang kaalaman sa katotohanan tungkol sa pamumuhay na maka-Diyos,</verse>
 				<verse number="2">at bigyan sila ng pag-asa sa buhay na walang hanggan. Bago pa likhain ang sanlibutan, ang buhay na ito'y ipinangako na ng Diyos na kailanma'y hindi nagsisinungaling.</verse>
@@ -31906,7 +31906,7 @@
 				<verse number="15">Kinukumusta ka ng mga kasama ko rito. Ikumusta mo rin kami sa lahat ng kapatid sa pananampalataya na nagmamahal sa atin. Nawa'y sumainyong lahat ang kagandahang-loob ng Diyos.</verse>
 			</chapter>
 		</book>
-		<book number="57">
+		<book number="Filemon">
 			<chapter number="1">
 				<verse number="1">Mula kay Pablo, isang bilanggo dahil kay Cristo Jesus, at mula kay Timoteo na ating kapatid— Para kay Filemon, ang minamahal naming kamanggagawa,</verse>
 				<verse number="2">at para sa iglesyang nagtitipon sa iyong bahay; kay Apia na aming kapatid na babae at kay Arquipo na kapwa naming kawal sa Panginoon.</verse>
@@ -31935,7 +31935,7 @@
 				<verse number="25">Nawa'y sumainyo ang kagandahang-loob ng ating Panginoong Jesu-Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="58">
+		<book number="Hebreo">
 			<chapter number="1">
 				<verse number="1">Noong una, nagsalita ang Diyos sa ating mga ninuno sa iba't ibang panahon at sa iba't ibang paraan sa pamamagitan ng mga propeta.</verse>
 				<verse number="2">Ngunit sa mga huling araw na ito, siya'y nagsalita sa atin sa pamamagitan ng kanyang Anak. Sa pamamagitan ng Anak ay nilikha ng Diyos ang sanlibutan, at siya ang piniling tagapagmana ng lahat ng bagay.</verse>
@@ -32266,7 +32266,7 @@
 				<verse number="25">Nawa'y sumainyong lahat ang kagandahang-loob ng Diyos. [Amen.]</verse>
 			</chapter>
 		</book>
-		<book number="59">
+		<book number="Santiago">
 			<chapter number="1">
 				<verse number="1">Mula kay Santiago, lingkod ng Diyos at ng Panginoong Jesu-Cristo: Ipinapaabot ko ang aking pagbati sa lahat ng mga hinirang ng Diyos na nakikipamayan sa iba't ibang bansa.</verse>
 				<verse number="2">Mga kapatid, magalak kayo kapag kayo'y dumaranas ng iba't ibang uri ng pagsubok.</verse>
@@ -32386,7 +32386,7 @@
 				<verse number="20">ito ang tandaan ninyo: sinumang makapagpabalik sa isang makasalanan mula sa kanyang maling pamumuhay ay nagliligtas ng isang kaluluwa sa kamatayan at nagpapawi ng maraming kasalanan.</verse>
 			</chapter>
 		</book>
-		<book number="60">
+		<book number="1 Pedro">
 			<chapter number="1">
 				<verse number="1">Mula kay Pedro, isang apostol ni Jesu-Cristo— Sa mga hinirang ng Diyos na nakikipamayan sa mga lalawigan ng Ponto, Galacia, Capadocia, Asia, at Bitinia.</verse>
 				<verse number="2">Kayo'y pinili ng Diyos Ama ayon sa kanyang layunin sa mula't mula pa at pinabanal ng Espiritu Santo, upang maging masunurin kay Jesu-Cristo at nilinis sa pamamagitan ng kanyang dugo. Sumagana nawa sa inyo ang kagandahang-loob at kapayapaan.</verse>
@@ -32503,7 +32503,7 @@
 				<verse number="14">Magbatian kayo bilang magkakapatid na nagmamahalan. Ang kapayapaan ay sumainyong lahat na mga nakipag-isa kay Cristo.</verse>
 			</chapter>
 		</book>
-		<book number="61">
+		<book number="2 Pedro">
 			<chapter number="1">
 				<verse number="1">Mula kay Simon Pedro, isang lingkod at apostol ni Jesu-Cristo— Para sa inyong lahat na tulad nami'y tumanggap ng napakahalagang pananampalatayang mula sa ating makatarungang Diyos at Tagapagligtas na si Jesu-Cristo.</verse>
 				<verse number="2">Sumagana nawa sa inyo ang kagandahang-loob at kapayapaan ng Diyos sa pamamagitan ng inyong pagkakilala sa kanya at sa ating Panginoong Jesus.</verse>
@@ -32572,7 +32572,7 @@
 				<verse number="18">Sa halip, patuloy kayong lumago sa kagandahang-loob ng ating Panginoon at Tagapagligtas na si Jesu-Cristo, at sa pagkakilala sa kanya. Sa kanya ang kaluwalhatian, ngayon at magpakailanman! Amen.</verse>
 			</chapter>
 		</book>
-		<book number="62">
+		<book number="1 Juan">
 			<chapter number="1">
 				<verse number="1">Sumusulat kami sa inyo tungkol sa kanya na sa simula pa'y siya na, ang Salitang nagbibigay-buhay. Siya ay aming narinig at nakita, napagmasdan at nahawakan.</verse>
 				<verse number="2">Nahayag ang buhay na ito, nakita namin siya, at pinapatotohanan namin at ipinapangaral sa inyo ang buhay na walang hanggan na kasama ng Ama, at nahayag sa amin.</verse>
@@ -32689,7 +32689,7 @@
 				<verse number="21">Mga anak, lumayo kayo sa mga diyus-diyosan.</verse>
 			</chapter>
 		</book>
-		<book number="63">
+		<book number="2 Juan">
 			<chapter number="1">
 				<verse number="1">Mula sa Matandang pinuno ng iglesya— Para sa hinirang na Ginang at sa kanyang mga anak, na tunay kong minamahal. Hindi lamang ako kundi ang lahat ng nakakaalam ng katotohanan ay nagmamahal sa inyo,</verse>
 				<verse number="2">sapagkat ang katotohanan ay nasa atin ngayon at magpakailanman.</verse>
@@ -32706,7 +32706,7 @@
 				<verse number="13">Kinukumusta ka ng mga anak ng iyong kapatid na babae na hinirang.</verse>
 			</chapter>
 		</book>
-		<book number="64">
+		<book number="3 Juan">
 			<chapter number="1">
 				<verse number="1">Mula sa Matandang pinuno ng iglesya— Para kay Gayo na lubos kong minamahal.</verse>
 				<verse number="2">Mahal kong kaibigan, idinadalangin kong ikaw sana'y nasa mabuting kalagayan at malusog ang katawan, tulad ng iyong buhay espirituwal.</verse>
@@ -32725,7 +32725,7 @@
 				<verse number="15">Sumaiyo nawa ang kapayapaan. Kinukumusta ka ng ating mga kaibigan dito. Isa-isa mong batiin ang lahat ng ating mga kaibigan diyan.</verse>
 			</chapter>
 		</book>
-		<book number="65">
+		<book number="Judas">
 			<chapter number="1">
 				<verse number="1">Mula kay Judas, lingkod ni Jesu-Cristo at kapatid ni Santiago— Para sa mga tinawag ng Diyos, mga namumuhay sa pag-ibig ng Diyos Ama at iniingatan ni Jesu-Cristo.</verse>
 				<verse number="2">Sumagana nawa sa inyo ang habag, kapayapaan at pag-ibig.</verse>
@@ -32754,7 +32754,7 @@
 				<verse number="25">sa iisang Diyos na ating Tagapagligtas, sa pamamagitan ni Jesu-Cristo na Panginoon natin, sa kanya ang kaluwalhatian, kadakilaan, kapamahalaan at kapangyarihan, mula pa noong una, ngayon at magpakailanman! Amen.</verse>
 			</chapter>
 		</book>
-		<book number="66">
+		<book number="Pahayag">
 			<chapter number="1">
 				<verse number="1">Ito ang pahayag ni Jesu-Cristo na ibinigay ng Diyos sa kanya at kanyang inihayag kay Juan na alipin niya, sa pamamagitan ng anghel na kanyang isinugo. Ang layunin ng paghahayag na ito'y ipakita sa mga alipin ng Diyos ang mga bagay na malapit nang maganap.</verse>
 				<verse number="2">Pinatotohanan ni Juan ang lahat ng kanyang nakita. Ito ang kanyang patotoo tungkol sa mensahe ng Diyos at sa katotohanang ipinahayag ni Jesu-Cristo.</verse>
